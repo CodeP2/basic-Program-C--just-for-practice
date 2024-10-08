@@ -1,3 +1,3 @@
 **Very Basic C++ program**
 
-Nothing special just a very basic program and bad. just to practice.
+Nothing special just a very basic program. just to practice.
